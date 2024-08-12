@@ -1,0 +1,28 @@
+body{
+margin: 0px;
+padding: 0px;
+/* background-color: rgb(5, 11, 11);
+color: rgb(245, 243, 239); */
+text-align: center;
+background-image: url(bg-11-full.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+h2{
+    font-size: 50px;
+}
+input{
+    width: 75px;
+    height: 50px;
+    font-size: 50px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: white;
+    color: black;
+}
+.btn:hover{
+    background-color: blueviolet;
+    cursor: pointer;
+}
